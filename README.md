@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kristijan-web
-- 👀 I’m interested in Web programming, more precisely front-end, my tech stack is: html, css, js, react, typescript, tailwind, jest, node/express, mongoDb. Starting as front-end developer but willing to learn full-stack
+- 👀 I’m interested in Web programming, more precisely full-stack, my tech stack is: html, css, js, react, typescript, tailwind, jest, node/express, mongoDb. Starting as front-end developer but willing to learn full-stack
 - 🌱 I’m currently learning Node, Express and MongoDB
 - 📫 How to reach me, linkedin: https://www.linkedin.com/in/kristijan-stojanovic-501231324/
 
